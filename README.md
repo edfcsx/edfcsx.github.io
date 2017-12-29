@@ -1,2 +1,2 @@
-# edfcsx.github.io
+# http://edfcsx.github.io
 Manga Softs
